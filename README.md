@@ -10,3 +10,9 @@ Arrows --> Moves the camera \
 Q, E --> Moves selected vertices in X axis \
 R, F --> Moves selected vertices in Y axis \
 T, G --> Moves selected vertices in Z axis 
+
+# Libraries Used
+
+* SDL3 \
+* Nlohmann JSON \
+* SLD TTF
