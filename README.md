@@ -13,6 +13,6 @@ T, G --> Moves selected vertices in Z axis
 
 # Libraries Used
 
-* SDL3 \
-* Nlohmann JSON \
+* SDL3 
+* Nlohmann JSON 
 * SLD TTF
